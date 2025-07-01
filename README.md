@@ -27,7 +27,7 @@ DEPLOY SIMPLY RAHEEM-XMD-3
 
 
 
-[![RAHEEM-XMD-3 SESSION](https://img.shields.io/badge/RAHEEM%20-XMD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://haiko-mdx-v2-session.onrender.com/pair)
+[![RAHEEM-XMD-3 SESSION](https://img.shields.io/badge/RAHEEM%20-XMD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://popkidglesession-spkd.onrender.com/pair)
 ---
 
  [![TypingSVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=1000&color=FF0000&center=true&vCenter=true&width=900&height=130&lines=『+⚡Bro+don't+forget;fork+my+repo🙏🙏⚡+』)](https://git.io/typing-svg)
